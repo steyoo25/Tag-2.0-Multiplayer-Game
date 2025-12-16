@@ -1,4 +1,4 @@
-# survivalGame
+# Tag 2.0 (Multiplayer Game)
 Stephen Yoon, Faizan Sayed, Amir Asror, Daniel Han, Brendon Wan
 
 To play: First run server.js in the terminal and go to "localhost:3000" on the browser.
